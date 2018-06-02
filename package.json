@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/bbenefield89/quit_smoking/issues"
   },
-  "homepage": "https://github.com/bbenefield89/quit_smoking#readme"
+  "homepage": "https://github.com/bbenefield89/quit_smoking#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.5"
+  }
 }
